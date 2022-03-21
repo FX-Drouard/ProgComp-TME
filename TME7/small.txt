@@ -1,0 +1,7 @@
+Contrairement à Java, OCaml n’utilise pas de cache pour
+les chaînes de caractères (historiquement, les chaînes OCaml
+étaient mutables). Vous pouvez vous en rendre compte en ta-
+pant "a" == "a" dans utop. Contrairement à Java, OCaml n’utilise pas de cache pour
+les chaînes de caractères (historiquement, les chaînes OCaml
+étaient mutables). Vous pouvez vous en rendre compte en ta-
+pant "a" == "a" dans utop.
